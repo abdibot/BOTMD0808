@@ -20,7 +20,7 @@ global.available = false //status online (online)
 // Other
 global.botname = "HELLO BOT" //namabot kalian
 global.ownername= "VANZZ OFC" //nama kalian
-global.myweb ="https://www.instagram.com/vanzz.ofc/" //bebas asal jan hapus
+global.myweb ="https://www.instagram.com/vanzz_ofc/" //bebas asal jan hapus
 global.youtube = "https://m.youtube.com/channel/UCEDb6SkiPU0theI8J_WEZZA" //bebas asal jan hapus
 global.github = "https://github.com/abdibot" //bebas
 global.email = "vanzzofc@gmail.com" //bebas
@@ -30,7 +30,7 @@ global.ownernomerr = "+6283856885495" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285824629954","6283856885495","6283856885495"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6285824629954","6283856885495","6283159647567"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© HELLO BOT' //sticker wm ubah
 global.author = 'Di Buat Oleh vanzzofc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
