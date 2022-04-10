@@ -20,7 +20,7 @@ global.available = false //status online (online)
 // Other
 global.botname = "HELLO BOT" //namabot kalian
 global.ownername= "VANZZ OFC" //nama kalian
-global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
+global.myweb ="https://www.instagram.com/vanzz.ofc/" //bebas asal jan hapus
 global.youtube = "https://m.youtube.com/channel/UCEDb6SkiPU0theI8J_WEZZA" //bebas asal jan hapus
 global.github = "https://github.com/abdibot" //bebas
 global.email = "vanzzofc@gmail.com" //bebas
